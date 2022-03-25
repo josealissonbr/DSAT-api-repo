@@ -1,10 +1,8 @@
-{
-  "games": [
-    {
-      "name": "Euron Truck Simulartor 2",
-      "enabled": true,
-      "isSteamGame": true,
-      "steamID": 227300
-    }
-  ]
-}
+[
+  {
+    "name": "Euron Truck Simulartor 2",
+    "enabled": true,
+    "isSteamGame": true,
+    "steamID": 227300
+  }
+]

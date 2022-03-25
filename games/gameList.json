@@ -4,5 +4,11 @@
     "enabled": true,
     "isSteamGame": true,
     "steamID": 227300
+  },
+  {
+    "name": "Euron Truck Simulartor 3",
+    "enabled": true,
+    "isSteamGame": true,
+    "steamID": 227300
   }
 ]

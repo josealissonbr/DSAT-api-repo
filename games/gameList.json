@@ -1,14 +1,10 @@
-[
-  {
-    "name": "Euro Truck Simulator 2",
-    "enabled": true,
-    "isSteamGame": true,
-    "steamID": 227300
-  },
-  {
-    "name": "Euro Truck Simulator 3",
-    "enabled": true,
-    "isSteamGame": true,
-    "steamID": 227300
-  }
-]
+{
+  "games": [
+    {
+      "name": "Euron Truck Simulartor 2",
+      "enabled": true,
+      "isSteamGame": true,
+      "steamID": 227300
+    }
+  ]
+}

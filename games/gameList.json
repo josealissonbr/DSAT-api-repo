@@ -4,5 +4,11 @@
     "enabled": true,
     "isSteamGame": true,
     "steamID": 227300
+  },
+  "game2":{
+    "name": "Euro Truck Simulator 3",
+    "enabled": true,
+    "isSteamGame": true,
+    "steamID": 227300
   }
 }

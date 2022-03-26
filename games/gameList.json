@@ -1,7 +1,8 @@
 {
   "games":[
     {
-      "name":"Euro truck"
+      "name":"Euro truck",
+      "id":123456789
     }
   ]
 }

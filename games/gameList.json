@@ -2,7 +2,8 @@
   "games":[
     {
       "name":"Euro Truck Simulator 2",
-      "id":123456789
+      "picture_url":"https://cdn.akamai.steamstatic.com/steam/apps/227300/capsule_616x353.jpg",
+      "app_id":227300
     }
   ]
 }

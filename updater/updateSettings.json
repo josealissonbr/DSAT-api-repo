@@ -1,5 +1,9 @@
 {
-    "code": "1",
-    "name": "1.0",
-    "download_link": ""
-}
+    "update": [
+      {
+        "code": "1",
+        "name": "1.0",
+        "download_link": ""
+      }
+    ]
+  }

@@ -2,10 +2,18 @@
   "games":[
     {
       "name":"Euro Truck Simulator 2",
-      "run_file": "ETS2-DualSenseAT-Mod.exe",
-      "process_name": "ETS2-DualSenseAT-Mod",
+      "run_file": "dsx_227300.exe",
+      "process_name": "dsx_227300",
       "picture_url":"https://cdn.akamai.steamstatic.com/steam/apps/227300/capsule_616x353.jpg",
       "app_id":227300,
+      "isSteamGame": true
+    },
+    {
+      "name":"Rocket League",
+      "run_file": "dsx_252950.exe",
+      "process_name": "dsx_227300",
+      "picture_url":"https://cdn.akamai.steamstatic.com/steam/apps/252950/capsule_616x353.jpg",
+      "app_id":252950,
       "isSteamGame": true
     }
   ]

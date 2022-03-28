@@ -15,6 +15,14 @@
       "picture_url":"https://cdn.akamai.steamstatic.com/steam/apps/252950/capsule_616x353.jpg",
       "app_id":252950,
       "isSteamGame": true
+    },
+    {
+      "name":"Death Stranding",
+      "run_file": "dsx_1190460.exe",
+      "process_name": "dsx_1190460",
+      "picture_url":"https://cdn.akamai.steamstatic.com/steam/apps/1190460/capsule_616x353.jpg",
+      "app_id":1190460,
+      "isSteamGame": true
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
     "update": [
       {
-        "code": "1",
-        "name": "1.0",
-        "download_link": ""
+        "code": "0.1.0.0",
+        "name": "beta 0.1",
+        "download_link": "https://github.com/josealissonbr/DualSenseAT/releases/download/BETA/DualSenseAT.v0.1.release.zip"
       }
     ]
   }

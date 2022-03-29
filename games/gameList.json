@@ -9,6 +9,14 @@
       "isSteamGame": true
     },
     {
+      "name":"Resident Evil 4",
+      "run_file": "dsx_254700.exe",
+      "process_name": "dsx_254700",
+      "picture_url":"https://cdn.akamai.steamstatic.com/steam/apps/254700/capsule_616x353.jpg",
+      "app_id":254700,
+      "isSteamGame": true
+    },
+    {
       "name":"Resident Evil 5",
       "run_file": "dsx_21690.exe",
       "process_name": "dsx_21690",

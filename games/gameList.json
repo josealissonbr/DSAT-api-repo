@@ -39,6 +39,14 @@
       "picture_url":"https://cdn.akamai.steamstatic.com/steam/apps/1190460/capsule_616x353.jpg",
       "app_id":1190460,
       "isSteamGame": true
+    },
+    {
+      "name":"God Of War",
+      "run_file": "dsx_1593500.exe",
+      "process_name": "dsx_1593500",
+      "picture_url":"https://cdn.akamai.steamstatic.com/steam/apps/1593500/capsule_616x353.jpg",
+      "app_id":1593500,
+      "isSteamGame": true
     }
   ]
 }

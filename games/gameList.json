@@ -41,19 +41,19 @@
       "isSteamGame": true
     },
     {
-      "name":"Grand Theft Auto V",
-      "run_file": "dsx_271590.exe",
-      "process_name": "dsx_271590",
-      "picture_url":"https://cdn.akamai.steamstatic.com/steam/apps/271590/capsule_616x353.jpg",
-      "app_id":271590,
-      "isSteamGame": true
-    },
-    {
       "name":"God Of War",
       "run_file": "dsx_1593500.exe",
       "process_name": "dsx_1593500",
       "picture_url":"https://cdn.akamai.steamstatic.com/steam/apps/1593500/capsule_616x353.jpg",
       "app_id":1593500,
+      "isSteamGame": true
+    },
+    {
+      "name":"Grand Theft Auto V",
+      "run_file": "dsx_271590.exe",
+      "process_name": "dsx_271590",
+      "picture_url":"https://cdn.akamai.steamstatic.com/steam/apps/271590/capsule_616x353.jpg",
+      "app_id":271590,
       "isSteamGame": true
     }
   ]

@@ -9,7 +9,7 @@
       "isSteamGame": true
     },
     {
-      "name":"Resident Evil 4",
+      "name":"Resident Evil 4 UHD Edition (Steam)",
       "run_file": "dsx_254700.exe",
       "process_name": "dsx_254700",
       "picture_url":"https://cdn.akamai.steamstatic.com/steam/apps/254700/capsule_616x353.jpg",
@@ -17,7 +17,7 @@
       "isSteamGame": true
     },
     {
-      "name":"Resident Evil 5",
+      "name":"Resident Evil 5 (Steam)",
       "run_file": "dsx_21690.exe",
       "process_name": "dsx_21690",
       "picture_url":"https://cdn.akamai.steamstatic.com/steam/apps/21690/capsule_616x353.jpg",
@@ -38,6 +38,14 @@
       "process_name": "dsx_1190460",
       "picture_url":"https://cdn.akamai.steamstatic.com/steam/apps/1190460/capsule_616x353.jpg",
       "app_id":1190460,
+      "isSteamGame": true
+    },
+    {
+      "name":"Grand Theft Auto V",
+      "run_file": "dsx_271590.exe",
+      "process_name": "dsx_271590",
+      "picture_url":"https://cdn.akamai.steamstatic.com/steam/apps/271590/capsule_616x353.jpg",
+      "app_id":271590,
       "isSteamGame": true
     },
     {

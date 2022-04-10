@@ -9,6 +9,30 @@
       "isSteamGame": true
     },
     {
+      "name":"Death Stranding",
+      "run_file": "dsx_1190460.exe",
+      "process_name": "dsx_1190460",
+      "picture_url":"https://cdn.akamai.steamstatic.com/steam/apps/1190460/capsule_616x353.jpg",
+      "app_id":1190460,
+      "isSteamGame": true
+    },
+    {
+      "name":"God Of War",
+      "run_file": "dsx_1593500.exe",
+      "process_name": "dsx_1593500",
+      "picture_url":"https://cdn.akamai.steamstatic.com/steam/apps/1593500/capsule_616x353.jpg",
+      "app_id":1593500,
+      "isSteamGame": true
+    },
+    {
+      "name":"Grand Theft Auto V",
+      "run_file": "dsx_271590.exe",
+      "process_name": "dsx_271590",
+      "picture_url":"https://cdn.akamai.steamstatic.com/steam/apps/271590/capsule_616x353.jpg",
+      "app_id":271590,
+      "isSteamGame": true
+    },
+    {
       "name":"Resident Evil 4 UHD Edition (Steam)",
       "run_file": "dsx_254700.exe",
       "process_name": "dsx_254700",
@@ -33,27 +57,11 @@
       "isSteamGame": true
     },
     {
-      "name":"Death Stranding",
-      "run_file": "dsx_1190460.exe",
-      "process_name": "dsx_1190460",
-      "picture_url":"https://cdn.akamai.steamstatic.com/steam/apps/1190460/capsule_616x353.jpg",
-      "app_id":1190460,
-      "isSteamGame": true
-    },
-    {
-      "name":"God Of War",
-      "run_file": "dsx_1593500.exe",
-      "process_name": "dsx_1593500",
-      "picture_url":"https://cdn.akamai.steamstatic.com/steam/apps/1593500/capsule_616x353.jpg",
-      "app_id":1593500,
-      "isSteamGame": true
-    },
-    {
-      "name":"Grand Theft Auto V",
-      "run_file": "dsx_271590.exe",
-      "process_name": "dsx_271590",
-      "picture_url":"https://cdn.akamai.steamstatic.com/steam/apps/271590/capsule_616x353.jpg",
-      "app_id":271590,
+      "name":"Skyrim SE",
+      "run_file": "dsx_489830.exe",
+      "process_name": "dsx_489830",
+      "picture_url":"https://cdn.akamai.steamstatic.com/steam/apps/489830/capsule_616x353.jpg",
+      "app_id":489830,
       "isSteamGame": true
     }
   ]
